@@ -1,0 +1,4 @@
+{
+ "note": "할인 회차표 — vs:code/promo-rounds/round.py 만 고친다. h = 회차 코드 SHA-256 앞 16자리(코드는 여기 없음).",
+ "rounds": []
+}
